@@ -2,6 +2,10 @@
 syntax on
 set number
 
+" Tabs
+set tabstop=2
+set shiftwidth=2
+
 " Define map leader
 let mapleader = ","
 
