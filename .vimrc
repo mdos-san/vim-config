@@ -8,6 +8,9 @@ set number
 set tabstop=2
 set shiftwidth=2
 
+" Reload .vimrc
+nnoremap <leader>rl :source ~/.vimrc
+
 " Define map leader
 let mapleader = ","
 
