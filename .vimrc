@@ -14,6 +14,8 @@ nnoremap <leader>rl :source ~/.vimrc
 " Define map leader
 let mapleader = ","
 
+" Quick command mode
+nnoremap ; :
 " Quick save all
 nnoremap <leader>w :wa<cr>
 " Quick save all and exit
