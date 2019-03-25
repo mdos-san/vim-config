@@ -1,5 +1,6 @@
 " Default
 syntax on
+
 " Use terminal color
 set t_Co=16
 set number
