@@ -20,3 +20,9 @@ nnoremap ; :
 nnoremap <leader>w :wa<cr>
 " Quick save all and exit
 nnoremap <leader>q :wqa<cr>
+
+" Find and replace
+nnoremap <leader># /#!#<cr>v3lc
+
+" Create a new function at end of file
+nnoremap <leader>nf Gofunction #!#(#!#) {<cr>}<esc>
