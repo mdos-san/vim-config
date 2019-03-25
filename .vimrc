@@ -17,6 +17,9 @@ let mapleader = ","
 
 " Quick command mode
 nnoremap ; :
+" Force to use previous mapping
+nnoremap : <nop>
+
 " Quick save all
 nnoremap <leader>w :wa<cr>
 " Quick save all and exit
